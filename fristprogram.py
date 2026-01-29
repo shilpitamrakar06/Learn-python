@@ -15,3 +15,27 @@ print(price)
 print(type(name))
 print(type(age))
 print(type(price))
+
+
+a = 1000
+b = 500
+sum = a+b
+print(sum)
+
+name = input("name:")
+age = int(input("age:"))
+price = float(input("price:"))
+print(name)
+print(age)
+print(price)
+print("my name is",name,"and i am", age, "years old")
+
+
+name = input("name:")
+age = int(input("age:"))
+price = float(input("price:"))
+print("my name is",name, "and i am", age, "years old")
+
+
+
+
