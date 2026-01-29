@@ -26,3 +26,16 @@ print(x[0:3])
 a = [10,20,30]
 a[1] = 99
 print(a) 
+
+
+i = "i love python"
+print(i.index('i'))
+
+i = "i love python"
+print(i.index('l'))
+
+i = "i love python"
+print(i.index('lo'))
+
+i = [10,10.5,20,20.3,30,'python']
+print(i(1))
